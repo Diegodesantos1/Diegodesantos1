@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Diego de Santos</h1>
+<h3 align="center">Estudiando Ingeniería Matemática e Ingeniería Informática en España.</h3>
 
-<!--
-**Diegodesantos1/Diegodesantos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diegodesantos1&show_icons=true&theme=dark&locale=es" alt="Diegodesantos1" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Diegodesantos128&theme=dark" alt="Diegodesantos1" /></p>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmedina28&layout=compact&show_icons=true&&title_color=FFFFFF&text_color=FFFFFF&bg_color=131313&border_radius=8px&border_color=FFFFFF&icon_color=5865F2&card_width=445px)
