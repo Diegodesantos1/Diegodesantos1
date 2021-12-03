@@ -1,6 +1,10 @@
 <h1 align="center">Diego de Santos</h1>
 <h3 align="center">Estudiando Ingeniería Matemática e Ingeniería Informática en España.</h3>
 
+Pincha [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) para ver mis repositorios.
+
+
+
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diegodesantos1&show_icons=true&theme=dark&locale=es" alt="Diegodesantos1" /></p>
